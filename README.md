@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I am a third-year software engineering student at the Instituto Técnologico de Santo Domingo, excited to be part of the work environment and learn more about the software engineering industry before beginning my career as a fully prepared professional graduate. <br>🔭 I’m currently working on a backend with NoSQl databases for my final degree project<br>🌱 I’m currently learning Python, frontend (React), backend (Express.js), containerization (Docker, Podman), OS (Ubuntu) and No-SQL databases (MongoDB)<br><br>
+💬 I am a third-year software engineering student at the Instituto Técnologico de Santo Domingo, excited to be part of the work environment and learn more about the software engineering industry before beginning my career as a fully prepared professional graduate. <br>🔭 I’m currently working on a backend with NoSQl databases for my final degree project<br>🌱 I’m currently learning Python, frontend (React), backend (Express.js), containerization (Docker, Podman), OS (Arch) and No-SQL databases (MongoDB)<br><br>
 
 
 # 💻 Tech Stack:
