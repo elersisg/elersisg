@@ -3,13 +3,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elersisg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elersisg&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elersisg&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=elersisg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![3D Night View](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elersisg&icon=0&color=0)](https://visitcount.itsvg.in)
 
---- 
-![3D Night View](./profile-3d-contrib/profile-night-view.svg)
