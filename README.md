@@ -7,7 +7,6 @@
 
 ![elersisg's Stats](https://github-readme-stats.vercel.app/api?username=elersisg&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![elersisg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=elersisg&theme=dark&hide_border=true)
-![elersisg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elersisg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ![3D Night View](./profile-3d-contrib/profile-night-view.svg)
 
 ---
