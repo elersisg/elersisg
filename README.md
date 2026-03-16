@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is @elersisg<br>👀 I’m a software engineering student constantly learning new stuff<br>
+👋 Hi, my name is @elersisg<br>👀 I’m a software engineering student constantly learning new stuff<br> 🌐 **Portfolio (updated more frequently than this README):** https://elersisg.xyz/<br>
 
 # 💻 Technologies that I have used
 
