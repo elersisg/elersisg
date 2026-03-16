@@ -79,6 +79,10 @@
 
 ## 📋 Project Management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+## 💻 Operating Systems  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+
 # 📊 GitHub Stats:
 ![3D Night View](./profile-3d-contrib/profile-night-rainbow.svg) 
 
